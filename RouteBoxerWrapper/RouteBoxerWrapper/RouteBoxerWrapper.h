@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-import JavaScriptCore
+#import JavaScriptCore
 
 //! Project version number for RouteBoxerWrapper.
 FOUNDATION_EXPORT double RouteBoxerWrapperVersionNumber;
